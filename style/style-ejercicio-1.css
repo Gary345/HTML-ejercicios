@@ -1,0 +1,21 @@
+body{
+    background-image: url(../assets/arcoiris.webp);
+
+}
+h1{
+color: darkgreen;
+text-align: center;
+}
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color: black;
+}
+#encabezados{
+color: aliceblue;
+text-align: right;
+border: solid ;
+border-radius: 10px;
+background: rgb(230,6,57);
+background: radial-gradient(circle, rgba(230,6,57,0.9707341554785976) 0%, rgba(168,140,71,0.396504463601847) 100%);
+}

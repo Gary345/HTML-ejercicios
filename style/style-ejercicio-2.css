@@ -1,0 +1,13 @@
+body{
+    background: rgb(32,0,36);
+    background: linear-gradient(90deg, rgba(32,0,36,0.3292775728455445) 0%, rgba(159,35,176,0.5477649678035277) 81%, rgba(76,130,142,0.8138714103805584) 100%);
+}
+#biografia{
+        font-family: "Bungee Tint", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+#fuente{
+    color: darkblue;
+}
